@@ -1,2 +1,2 @@
 # Toaster-Library
-A simple library for testing
+A simple library for android app
